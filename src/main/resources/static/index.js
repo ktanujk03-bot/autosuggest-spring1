@@ -1,1 +1,1 @@
-alert("jagte raho!!");
+ alert("be safe");
